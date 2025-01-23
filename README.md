@@ -68,6 +68,8 @@ object GestionInvestigadores {
   }
 }
 ```
+![image](https://github.com/user-attachments/assets/b49b4793-bf2b-4fa7-957a-c4574c97ef14)
+
 
 ## Consideraciones
 - Reemplazar contraseña de MySQL
